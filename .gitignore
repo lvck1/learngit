@@ -2,3 +2,6 @@
 *.jar
 *.war
 *.class
+
+#排除的文件
+!other.class
